@@ -3,7 +3,7 @@
 <p>1）选择合适的搬瓦工方案，2）检查所选方案信息，3）注册搬瓦工账户进行购买，4）使用支付宝（或微信支付、PayPal、信用卡）付款完成购买。</p>
 
 <b>广告插播，如果你觉得自己折腾VPS太麻烦，可以考虑这个服务哦（非本库服务）：</b><br>
-<a href="https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA"><img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg" height="300" alt="V2free翻墙-不限流量、高速稳定、性价比超强"></a>
+<a href="https://github.com/vpn-wiki/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA"><img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg" height="300" alt="V2free翻墙-不限流量、高速稳定、性价比超强"></a>
 
 <b>搬瓦工VPS买前须知</b>
 <ul>
@@ -15,8 +15,8 @@
 </ul>
 
 本文属于bannedbook系列翻墙教程的一部分，相关教程如下：
-* [自建V2ray服务器简明教程](/fanqiang/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B)	
-* [自建Shadowsocks服务器简明教程](/fanqiang/v2ss/%E8%87%AA%E5%BB%BAShadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B) 
+* [自建V2ray服务器简明教程](https://github.com/vpn-wiki/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)	
+* [自建Shadowsocks服务器简明教程](https://github.com/vpn-wiki/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAShadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md) 
 <h2><strong>一、挑选合适的搬瓦工套餐</strong></h2>
 <p>购买前，我们需要挑选一个合适的套餐。如何挑选？很简单，问自己下面几个问题即可。</p>
 <p><strong>1、首先，我用来干什么？需要什么配置？每个月需要多少流量？</strong></p>
@@ -343,7 +343,7 @@ $1199.99/年</td><td>CN2 9个机房 <br>
 <h2>五、搬瓦工速度慢的解决方法</h2>
 
 <p><b>安装Google BBR加速</b></p>
-<p><a href="https://github.com/bannedbook/fanqiang/blob/master/v2ss/%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84Google%20BBR%20%E4%B8%80%E9%94%AE%E5%8A%A0%E9%80%9FVPS%E6%95%99%E7%A8%8B.md">最简单的Google BBR 一键加速VPS教程</a></p>
+<p><a href="https://github.com/vpn-wiki/fanqiang/blob/master/v2ss/%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84Google%20BBR%20%E4%B8%80%E9%94%AE%E5%8A%A0%E9%80%9FVPS%E6%95%99%E7%A8%8B.md">最简单的Google BBR 一键加速VPS教程</a></p>
  
 <p><b>尝试切换机房</b></p>
 <p>如果排除了本地网络的问题，也安装Google BBR加速，那么接下来可以尝试切换机房。这个机房不行？换一个试试呗。每个人由于本地网络的差异，适合的机房都不一样。一般来说，建议先尝试 DC8 和 DC3，如果没有效果，请依次继续尝试 DC2、DC4，以及其他的各个机房。一般来说总有一个合适的。</p>
@@ -351,4 +351,4 @@ $1199.99/年</td><td>CN2 9个机房 <br>
 <p><b>加钱买香机房</b></p>
 <p>如果以上都不行，建议加钱买香港，毕竟加钱才是硬道理，要么加钱换宽带，要么加钱买香港。一般来说，搬瓦工的香港 VPS 在绝大多数地区都毫无问题。</p>
 
-<p>如果香港也不行 – 那就试试 <a href="https://github.com/bannedbook/fanqiang/blob/master/v2ss/%E8%B4%AD%E4%B9%B0Vultr%20VPS%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B.md">Vultr VPS</a> 吧，有16个数据中心可供选择。</p>
+<p>如果香港也不行 – 那就试试 <a href="https://github.com/vpn-wiki/fanqiang/blob/master/v2ss/%E8%B4%AD%E4%B9%B0Vultr%20VPS%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B.md">Vultr VPS</a> 吧，有16个数据中心可供选择。</p>

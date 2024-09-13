@@ -38,7 +38,7 @@ iOS
 
 Windows Phone
 <h4>(二)作为“分布式网盘”的优点</h4>
-再来说说 Resilio Sync 作为“分布式网盘”的优点——这也就是为啥，俺决定用它来分享 “<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">翻墙工具</a>”。
+再来说说 Resilio Sync 作为“分布式网盘”的优点——这也就是为啥，俺决定用它来分享 “<a href="https://github.com/vpn-wiki/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">翻墙工具</a>”。
 
 1. 【没有】存储空间的限制——真要说空间限制，那就是<span>参与</span>的节点，贡献的硬盘尺寸（如今 TB
 级的硬盘已经不稀奇了）
@@ -93,10 +93,10 @@ Windows Phone
 对于普通的使用场景，每个同步目录对应两个密钥：一个是“读写密钥”，另一个是“只读密钥”。顾名思义，拥有读写密钥的节点，可以修改同步目录的内容；反之，拥有“只读密钥”的节点，只能读取，无法修改——所谓的“无法修改”，就是说：即使你修改了同步目录的内容，修改结果也【不会】同步给其它节点（所以这种修改是【无】意义的）。
 
 至于如何得到密钥，请看下面的介绍。
-<h4>(二)如何“接受同步”（下载<a href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">翻墙软件</a>）</h4>
+<h4>(二)如何“接受同步”（下载<a href="https://github.com/vpn-wiki/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">翻墙软件</a>）</h4>
 先从比较简单的“接受同步”说起。
 
-俺已经共享了一个“<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">翻墙软件</a>”的同步目录，然后俺把只读密钥公布如下：
+俺已经共享了一个“<a href="https://github.com/vpn-wiki/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">翻墙软件</a>”的同步目录，然后俺把只读密钥公布如下：
 
 BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC
 

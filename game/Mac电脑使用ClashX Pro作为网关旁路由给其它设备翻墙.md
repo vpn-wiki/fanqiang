@@ -2,16 +2,16 @@
 
 <p><strong>这个教程将会指导你用 Mac 电脑使用免费的 ClashX Pro 软件作为家庭的网关，让全家设备连上 Wi-Fi 就能科学上网。</strong></p>
 
-Windows类似方法参考: [Windows如何共享Wifi无线网卡翻墙热点给其它设备翻墙](/fanqiang/game/Windows%E5%A6%82%E4%BD%95%E5%85%B1%E4%BA%ABWifi%E6%97%A0%E7%BA%BF%E7%BD%91%E5%8D%A1%E7%BF%BB%E5%A2%99%E7%83%AD%E7%82%B9%E7%BB%99%E5%85%B6%E5%AE%83%E8%AE%BE%E5%A4%87%E7%BF%BB%E5%A2%99)
+Windows类似方法参考: [Windows如何共享Wifi无线网卡翻墙热点给其它设备翻墙](https://github.com/vpn-wiki/fanqiang/blob/master/game/Windows%E5%A6%82%E4%BD%95%E5%85%B1%E4%BA%ABWifi%E6%97%A0%E7%BA%BF%E7%BD%91%E5%8D%A1%E7%BF%BB%E5%A2%99%E7%83%AD%E7%82%B9%E7%BB%99%E5%85%B6%E5%AE%83%E8%AE%BE%E5%A4%87%E7%BF%BB%E5%A2%99.md)
 
 ## 相关阅读
 
-  * [PS4-PS5游戏机通过局域网翻墙，加速游戏，以及下载游戏教程](/fanqiang/game/PS4-PS5%E6%B8%B8%E6%88%8F%E6%9C%BA%E9%80%9A%E8%BF%87%E5%B1%80%E5%9F%9F%E7%BD%91%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B)
-  * [SStap和Netch免费游戏加速器教程](/fanqiang/game/SStap%E5%92%8CNetch%E5%85%8D%E8%B4%B9%E6%B8%B8%E6%88%8F%E5%8A%A0%E9%80%9F%E5%99%A8%E6%95%99%E7%A8%8B)
-  * [Switch、 PlayStation、Xbox等游戏机翻墙教程，利用MAC电脑做旁路由加速](/fanqiang/game/Switch%E3%80%81%20PlayStation%E3%80%81Xbox%E7%AD%89%E6%B8%B8%E6%88%8F%E6%9C%BA%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B%EF%BC%8C%E5%88%A9%E7%94%A8MAC%E7%94%B5%E8%84%91%E5%81%9A%E6%97%81%E8%B7%AF%E7%94%B1%E5%8A%A0%E9%80%9F)
-  * [Windows如何共享Wifi无线网卡翻墙热点给其它设备翻墙](/fanqiang/game/Windows%E5%A6%82%E4%BD%95%E5%85%B1%E4%BA%ABWifi%E6%97%A0%E7%BA%BF%E7%BD%91%E5%8D%A1%E7%BF%BB%E5%A2%99%E7%83%AD%E7%82%B9%E7%BB%99%E5%85%B6%E5%AE%83%E8%AE%BE%E5%A4%87%E7%BF%BB%E5%A2%99)
-  * [Mac电脑使用ClashX Pro作为网关旁路由给其它设备翻墙](/fanqiang/game/Mac%E7%94%B5%E8%84%91%E4%BD%BF%E7%94%A8ClashX%20Pro%E4%BD%9C%E4%B8%BA%E7%BD%91%E5%85%B3%E6%97%81%E8%B7%AF%E7%94%B1%E7%BB%99%E5%85%B6%E5%AE%83%E8%AE%BE%E5%A4%87%E7%BF%BB%E5%A2%99)
-  * [在Mac上使用clashx pro给switch开启游戏加速](/fanqiang/game/%E5%9C%A8Mac%E4%B8%8A%E4%BD%BF%E7%94%A8clashx%20pro%E7%BB%99switch%E5%BC%80%E5%90%AF%E6%B8%B8%E6%88%8F%E5%8A%A0%E9%80%9F)
+  * [PS4-PS5游戏机通过局域网翻墙，加速游戏，以及下载游戏教程](https://github.com/vpn-wiki/fanqiang/blob/master/game/PS4-PS5%E6%B8%B8%E6%88%8F%E6%9C%BA%E9%80%9A%E8%BF%87%E5%B1%80%E5%9F%9F%E7%BD%91%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B.md)
+  * [SStap和Netch免费游戏加速器教程](https://github.com/vpn-wiki/fanqiang/blob/master/game/SStap%E5%92%8CNetch%E5%85%8D%E8%B4%B9%E6%B8%B8%E6%88%8F%E5%8A%A0%E9%80%9F%E5%99%A8%E6%95%99%E7%A8%8B.md)
+  * [Switch、 PlayStation、Xbox等游戏机翻墙教程，利用MAC电脑做旁路由加速](https://github.com/vpn-wiki/fanqiang/blob/master/game/Switch%E3%80%81%20PlayStation%E3%80%81Xbox%E7%AD%89%E6%B8%B8%E6%88%8F%E6%9C%BA%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B%EF%BC%8C%E5%88%A9%E7%94%A8MAC%E7%94%B5%E8%84%91%E5%81%9A%E6%97%81%E8%B7%AF%E7%94%B1%E5%8A%A0%E9%80%9F.md)
+  * [Windows如何共享Wifi无线网卡翻墙热点给其它设备翻墙](https://github.com/vpn-wiki/fanqiang/blob/master/game/Windows%E5%A6%82%E4%BD%95%E5%85%B1%E4%BA%ABWifi%E6%97%A0%E7%BA%BF%E7%BD%91%E5%8D%A1%E7%BF%BB%E5%A2%99%E7%83%AD%E7%82%B9%E7%BB%99%E5%85%B6%E5%AE%83%E8%AE%BE%E5%A4%87%E7%BF%BB%E5%A2%99.md)
+  * [Mac电脑使用ClashX Pro作为网关旁路由给其它设备翻墙](https://github.com/vpn-wiki/fanqiang/blob/master/game/Mac%E7%94%B5%E8%84%91%E4%BD%BF%E7%94%A8ClashX%20Pro%E4%BD%9C%E4%B8%BA%E7%BD%91%E5%85%B3%E6%97%81%E8%B7%AF%E7%94%B1%E7%BB%99%E5%85%B6%E5%AE%83%E8%AE%BE%E5%A4%87%E7%BF%BB%E5%A2%99.md)
+  * [在Mac上使用clashx pro给switch开启游戏加速](https://github.com/vpn-wiki/fanqiang/blob/master/game/%E5%9C%A8Mac%E4%B8%8A%E4%BD%BF%E7%94%A8clashx%20pro%E7%BB%99switch%E5%BC%80%E5%90%AF%E6%B8%B8%E6%88%8F%E5%8A%A0%E9%80%9F.md)
 
 <p>之前有分享过 Surge 作为网关 DHCP 接管家里网络的教程，这几个月家里的设备一直这么使用非常稳定，电视手机直接科学上网也非常方便。但是：Surge 价格有点贵会劝退人，之前的教程也需要手动设置下使用 Surge 作为网关走代理（那是我设置问题）所以这次写下 ClashX Pro 的教程。</p>
 <p>使用 Clash 或者 Surge 软件作为网关我再赘述下我个人觉得的优点：</p>
@@ -29,7 +29,7 @@ Windows类似方法参考: [Windows如何共享Wifi无线网卡翻墙热点给�
 <h3>准备 Clash 的配置文件</h3>
 
 **广告插入：**  
-[![V2free翻墙-不限流量、高速稳定、性价比超强](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg)](https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)
+[![V2free翻墙-不限流量、高速稳定、性价比超强](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg)](https://github.com/vpn-wiki/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)
 
 <p>一般你订阅的服务应该会给 Clash 的<strong>订阅链接</strong>，如果没有也没关系，你可以通过第三方 <a href="https://subconverter.speedupvpn.com/" rel="nofollow">机场翻墙订阅转换器-V2ray,Clash,SSR,SS等订阅链接在线转换</a> 生成：</p>
 <figure><img src="https://oss.qust.me/img/%E6%88%AA%E5%B1%8F2021-03-29%20%E4%B8%8B%E5%8D%8811.45.13.jpg" alt ></figure>

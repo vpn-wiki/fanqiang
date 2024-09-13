@@ -2,7 +2,7 @@
 
 添加任何墙外新闻的RSS/FEED，无需VPN，只需导入一个翻墙节点，FQNews APP会在后台自动翻墙下载新闻并缓存到本机，FQNews也内置了禁闻网的一些栏目。
 
-[本库下载](https://github.com/bannedbook/fanqiang/releases) 、 [google play下载](https://play.google.com/store/apps/details?id=jww.feed.fqnews)
+[本库下载](https://github.com/vpn-wiki/fanqiang/releases) 、 [google play下载](https://play.google.com/store/apps/details?id=jww.feed.fqnews)
 
 <a href="https://play.google.com/store/apps/details?id=jww.feed.fqnews"><img src="https://www.bannedbook.org/bnews/wp-content/uploads/2020/05/2.png" style="max-width:100%"></a>
 
@@ -12,6 +12,6 @@ vmess://...<br>
 vless://...<br>
 trojan://...
 
-FQNews2 is free and open-source APP under GPLv3 licence, base on [v2ray.vpn](https://github.com/bannedbook/v2ray.vpn) and [Feeder](https://github.com/spacecowboy/Feeder)
+FQNews2 is free and open-source APP under GPLv3 licence, base on [v2ray.vpn](https://github.com/vpn-wiki/v2ray.vpn) and [Feeder](https://github.com/spacecowboy/Feeder)
 
 

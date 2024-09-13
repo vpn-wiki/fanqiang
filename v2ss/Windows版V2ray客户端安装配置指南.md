@@ -3,7 +3,7 @@
 ## V2ray官方Windows客户端安装配置
 
 <b>广告插播，如果你觉得自己折腾VPS太麻烦，可以考虑这个服务哦（非本库服务）：</b><br>
-<a href="https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA"><img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg" height="300" alt="V2free翻墙-不限流量、高速稳定、性价比超强"></a>
+<a href="https://github.com/vpn-wiki/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA"><img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg" height="300" alt="V2free翻墙-不限流量、高速稳定、性价比超强"></a>
 
 点<a href="https://github.com/v2fly/v2ray-core/releases" target="_blank" rel="noopener">这里</a>下载 V2Ray 的 Windows 压缩包，如果是 32 位系统，下载 v2ray-windows-32.zip，如果是 64 位系统，下载 v2ray-windows-64.zip。 下载解压之后会有 v2ray.exe 和 config.json 这两个文件，v2ray.exe 是运行 v2ray 的文件，config.json 是配置文件。你可以通过记事本或其它的文本编辑器打开查看。
 
@@ -64,8 +64,8 @@
 ![](/resource/images/generate_uuid.png)
 
 本文属于bannedbook系列翻墙教程的一部分，相关教程如下：
-* [自建V2ray服务器简明教程](/fanqiang/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B)	
-* [自建Shadowsocks服务器简明教程](/fanqiang/v2ss/%E8%87%AA%E5%BB%BAShadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B) 
+* [自建V2ray服务器简明教程](https://github.com/vpn-wiki/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)	
+* [自建Shadowsocks服务器简明教程](https://github.com/vpn-wiki/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAShadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md) 
 
 ## V2ray客户端配置文件(绕过国内域名及IP)
 
@@ -156,20 +156,20 @@ Configuration OK.
 
 ![](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2ray/client1.jpg)
 
-注意：这里的端口，填写上面 “第四步 [安装V2ray服务器](/fanqiang/v2ss/V2ray%E5%AE%98%E6%96%B9%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)” 安装完成后显示的Port:后面的数字，用户ID填写第四步显示的UUID:后面的一串字符即可。
+注意：这里的端口，填写上面 “第四步 [安装V2ray服务器](https://github.com/vpn-wiki/fanqiang/blob/master/v2ss/V2ray%E5%AE%98%E6%96%B9%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC.md)” 安装完成后显示的Port:后面的数字，用户ID填写第四步显示的UUID:后面的一串字符即可。
 配置好客户端，就可以自由冲浪了！至此为止，是不是很简单，有人说V2ray配置复杂，我们怎么没觉得呢？
 
 本文属于bannedbook系列翻墙教程的一部分，欢迎体验我们提供的免费翻墙软件和教程：
 
   
-* [自建V2ray服务器简明教程](/fanqiang/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B)	
+* [自建V2ray服务器简明教程](https://github.com/vpn-wiki/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)	
   
-* [自建Shadowsocks服务器简明教程](/fanqiang/v2ss/%E8%87%AA%E5%BB%BAShadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B) 
+* [自建Shadowsocks服务器简明教程](https://github.com/vpn-wiki/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAShadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md) 
   <ul>
-<li><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6">安卓手机翻墙</a></li>
- <li><a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" >Chrome一键翻墙包</a></li>
- <li><a href="https://github.com/bannedbook/fanqiang/tree/master/EdgeGo" target="_blank">EdgeGo-Edge一键翻墙包</a></li>
- <li><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" >火狐firefox一键翻墙包</a></li>
- <li><a href="https://github.com/bannedbook/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md" >自建V2ray服务器简明教程</a></li>
+<li><a href="https://github.com/vpn-wiki/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6">安卓手机翻墙</a></li>
+ <li><a href="https://github.com/vpn-wiki/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" >Chrome一键翻墙包</a></li>
+ <li><a href="https://github.com/vpn-wiki/fanqiang/tree/master/EdgeGo" target="_blank">EdgeGo-Edge一键翻墙包</a></li>
+ <li><a href="https://github.com/vpn-wiki/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" >火狐firefox一键翻墙包</a></li>
+ <li><a href="https://github.com/vpn-wiki/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md" >自建V2ray服务器简明教程</a></li>
 </ul>
 

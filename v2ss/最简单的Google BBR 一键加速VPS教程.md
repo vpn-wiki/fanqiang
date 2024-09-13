@@ -5,7 +5,7 @@ BBR是Google的一套网络拥塞控制算法，用在VPS服务器上，可以�
 目前很多Linux类系统的最新内核，都已内置BBR。所以，不再需要第三方的安装脚本了。直接修改系统配置即可。
 
 <b>广告插播，如果你觉得自己折腾VPS太麻烦，可以考虑这个服务哦（非本库服务）：</b><br>
-<a href="https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA"><img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg" height="300" alt="V2free翻墙-不限流量、高速稳定、性价比超强"></a>
+<a href="https://github.com/vpn-wiki/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA"><img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg" height="300" alt="V2free翻墙-不限流量、高速稳定、性价比超强"></a>
 
 本文的系统要求为 Debian 9或更高版本的 Debian Linux，其它操作系统所知不详，不知是否适合本文的方法。
 
@@ -50,10 +50,10 @@ Google BBR 一键加速VPS服务器很简单，SSH登录VPS后，分别执行以
 
 本文属于bannedbook系列翻墙教程的一部分，欢迎体验我们提供的免费翻墙软件和教程：
 <ul>
-<li><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6">安卓手机翻墙</a></li>
- <li><a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" >Chrome一键翻墙包</a></li>
- <li><a href="https://github.com/bannedbook/fanqiang/tree/master/EdgeGo" target="_blank">EdgeGo-Edge一键翻墙包</a></li>
- <li><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" >火狐firefox一键翻墙包</a></li>
- <li><a href="https://github.com/bannedbook/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md" >自建V2ray服务器简明教程</a></li>
+<li><a href="https://github.com/vpn-wiki/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6">安卓手机翻墙</a></li>
+ <li><a href="https://github.com/vpn-wiki/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" >Chrome一键翻墙包</a></li>
+ <li><a href="https://github.com/vpn-wiki/fanqiang/tree/master/EdgeGo" target="_blank">EdgeGo-Edge一键翻墙包</a></li>
+ <li><a href="https://github.com/vpn-wiki/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" >火狐firefox一键翻墙包</a></li>
+ <li><a href="https://github.com/vpn-wiki/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md" >自建V2ray服务器简明教程</a></li>
 
 版权所有，转载必须保留文章所有链接。

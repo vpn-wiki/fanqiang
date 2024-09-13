@@ -3,7 +3,7 @@
 1\. 简介
 ------
 
-ClashDotNet 是基于.NET5的图形化 Clash 分支，目前这个ClashDotNet软件已经多年未更新了,问题比较多不建议使用了,推荐使用[V2rayN](/fanqiang/windows/V2RayN)。
+ClashDotNet 是基于.NET5的图形化 Clash 分支，目前这个ClashDotNet软件已经多年未更新了,问题比较多不建议使用了,推荐使用[V2rayN](https://github.com/vpn-wiki/fanqiang/blob/master/windows/V2RayN.md)。
 
 **支持的协议：** Vmess, Shadowsocks, Snell , SOCKS5 , ShadowsocksR，注意：目前不支持vless协议，vless节点会被显示为vmess并连接超时。
 
@@ -12,7 +12,7 @@ ClashDotNet 是基于.NET5的图形化 Clash 分支，目前这个ClashDotNet软
 
 注册机场以获取节点订阅链接或者找免费的订阅链接。
 
-这里我们推荐一个[V2ray机场，有免费V2ray节点](https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)，[点击注册](https://w1.v2ai.top/auth/register?code=cd79)，注册后在该机场用户中心拷贝Clash订阅链接。
+这里我们推荐一个[V2ray机场，有免费V2ray节点](https://github.com/vpn-wiki/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)，[点击注册](https://w1.v2ai.top/auth/register?code=cd79)，注册后在该机场用户中心拷贝Clash订阅链接。
 
 教育网的网友如果打不开上面的链接，请使用这个链接：
 https://cdn.v2ai.top/auth/register?code=cd79
@@ -24,7 +24,7 @@ https://cdn.v2ai.top/auth/register?code=cd79
 
 3\. 下载与安装
 ---------
-[点击下载ClashDotNetFramework](https://github.com/bannedbook/fanqiang/releases)
+[点击下载ClashDotNetFramework](https://github.com/vpn-wiki/fanqiang/releases)
 
 下载后解压全部文件，然后双击运行主程序即可。 
  
@@ -75,16 +75,16 @@ https://cdn.v2ai.top/auth/register?code=cd79
 ![ClashDotNet_DCbAY2rOda.png](https://v2free.org/docs/SSPanel/Windows/ClashDotNetFramework_files/1970949877.png)
 
 ## 相关阅读
-*   [V2ray机场，V2ray/SS免费翻墙节点](https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)
-*   [安卓翻墙软件](https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
-*   [安卓翻墙APP教程](/fanqiang/android)
-*   [Chrome一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)
-*   [EdgeGo-Edge一键翻墙包](/fanqiang/EdgeGo)
-*   [火狐firefox一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)
-*   [自建V2ray服务器翻墙简明教程](/fanqiang/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B)
-*   [自建Shadowsocks服务器翻墙简明教程](/fanqiang/v2ss/%E8%87%AA%E5%BB%BAShadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B)
-*   [免费ss账号](https://github.com/bannedbook/fanqiang/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7)
-*   [v2ray免费账号](https://github.com/bannedbook/fanqiang/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
-*   [苹果电脑MAC翻墙](https://github.com/bannedbook/fanqiang/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99)
-*   [iphone翻墙](https://github.com/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99)
-*   [TorBrowser一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)
+*   [V2ray机场，V2ray/SS免费翻墙节点](https://github.com/vpn-wiki/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)
+*   [安卓翻墙软件](https://github.com/vpn-wiki/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
+*   [安卓翻墙APP教程](https://github.com/vpn-wiki/fanqiang/tree/master/android)
+*   [Chrome一键翻墙包](https://github.com/vpn-wiki/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)
+*   [EdgeGo-Edge一键翻墙包](https://github.com/vpn-wiki/fanqiang/tree/master/EdgeGo)
+*   [火狐firefox一键翻墙包](https://github.com/vpn-wiki/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)
+*   [自建V2ray服务器翻墙简明教程](https://github.com/vpn-wiki/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAV2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)
+*   [自建Shadowsocks服务器翻墙简明教程](https://github.com/vpn-wiki/fanqiang/blob/master/v2ss/%E8%87%AA%E5%BB%BAShadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B.md)
+*   [免费ss账号](https://github.com/vpn-wiki/fanqiang/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7)
+*   [v2ray免费账号](https://github.com/vpn-wiki/fanqiang/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+*   [苹果电脑MAC翻墙](https://github.com/vpn-wiki/fanqiang/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99)
+*   [iphone翻墙](https://github.com/vpn-wiki/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99)
+*   [TorBrowser一键翻墙包](https://github.com/vpn-wiki/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85)

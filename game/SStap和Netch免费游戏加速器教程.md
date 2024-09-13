@@ -4,12 +4,12 @@ SStap和Netch两款游戏加速器都是Github上的开源工具，用来加速�
 
 ## 相关阅读
 
-  * [PS4-PS5游戏机通过局域网翻墙，加速游戏，以及下载游戏教程](/fanqiang/game/PS4-PS5%E6%B8%B8%E6%88%8F%E6%9C%BA%E9%80%9A%E8%BF%87%E5%B1%80%E5%9F%9F%E7%BD%91%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B)
-  * [SStap和Netch免费游戏加速器教程](/fanqiang/game/SStap%E5%92%8CNetch%E5%85%8D%E8%B4%B9%E6%B8%B8%E6%88%8F%E5%8A%A0%E9%80%9F%E5%99%A8%E6%95%99%E7%A8%8B)
-  * [Switch、 PlayStation、Xbox等游戏机翻墙教程，利用MAC电脑做旁路由加速](/fanqiang/game/Switch%E3%80%81%20PlayStation%E3%80%81Xbox%E7%AD%89%E6%B8%B8%E6%88%8F%E6%9C%BA%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B%EF%BC%8C%E5%88%A9%E7%94%A8MAC%E7%94%B5%E8%84%91%E5%81%9A%E6%97%81%E8%B7%AF%E7%94%B1%E5%8A%A0%E9%80%9F)
-  * [Windows如何共享Wifi无线网卡翻墙热点给其它设备翻墙](/fanqiang/game/Windows%E5%A6%82%E4%BD%95%E5%85%B1%E4%BA%ABWifi%E6%97%A0%E7%BA%BF%E7%BD%91%E5%8D%A1%E7%BF%BB%E5%A2%99%E7%83%AD%E7%82%B9%E7%BB%99%E5%85%B6%E5%AE%83%E8%AE%BE%E5%A4%87%E7%BF%BB%E5%A2%99)
-  * [Mac电脑使用ClashX Pro作为网关旁路由给其它设备翻墙](/fanqiang/game/Mac%E7%94%B5%E8%84%91%E4%BD%BF%E7%94%A8ClashX%20Pro%E4%BD%9C%E4%B8%BA%E7%BD%91%E5%85%B3%E6%97%81%E8%B7%AF%E7%94%B1%E7%BB%99%E5%85%B6%E5%AE%83%E8%AE%BE%E5%A4%87%E7%BF%BB%E5%A2%99)
-  * [在Mac上使用clashx pro给switch开启游戏加速](/fanqiang/game/%E5%9C%A8Mac%E4%B8%8A%E4%BD%BF%E7%94%A8clashx%20pro%E7%BB%99switch%E5%BC%80%E5%90%AF%E6%B8%B8%E6%88%8F%E5%8A%A0%E9%80%9F)
+  * [PS4-PS5游戏机通过局域网翻墙，加速游戏，以及下载游戏教程](https://github.com/vpn-wiki/fanqiang/blob/master/game/PS4-PS5%E6%B8%B8%E6%88%8F%E6%9C%BA%E9%80%9A%E8%BF%87%E5%B1%80%E5%9F%9F%E7%BD%91%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B.md)
+  * [SStap和Netch免费游戏加速器教程](https://github.com/vpn-wiki/fanqiang/blob/master/game/SStap%E5%92%8CNetch%E5%85%8D%E8%B4%B9%E6%B8%B8%E6%88%8F%E5%8A%A0%E9%80%9F%E5%99%A8%E6%95%99%E7%A8%8B.md)
+  * [Switch、 PlayStation、Xbox等游戏机翻墙教程，利用MAC电脑做旁路由加速](https://github.com/vpn-wiki/fanqiang/blob/master/game/Switch%E3%80%81%20PlayStation%E3%80%81Xbox%E7%AD%89%E6%B8%B8%E6%88%8F%E6%9C%BA%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B%EF%BC%8C%E5%88%A9%E7%94%A8MAC%E7%94%B5%E8%84%91%E5%81%9A%E6%97%81%E8%B7%AF%E7%94%B1%E5%8A%A0%E9%80%9F.md)
+  * [Windows如何共享Wifi无线网卡翻墙热点给其它设备翻墙](https://github.com/vpn-wiki/fanqiang/blob/master/game/Windows%E5%A6%82%E4%BD%95%E5%85%B1%E4%BA%ABWifi%E6%97%A0%E7%BA%BF%E7%BD%91%E5%8D%A1%E7%BF%BB%E5%A2%99%E7%83%AD%E7%82%B9%E7%BB%99%E5%85%B6%E5%AE%83%E8%AE%BE%E5%A4%87%E7%BF%BB%E5%A2%99.md)
+  * [Mac电脑使用ClashX Pro作为网关旁路由给其它设备翻墙](https://github.com/vpn-wiki/fanqiang/blob/master/game/Mac%E7%94%B5%E8%84%91%E4%BD%BF%E7%94%A8ClashX%20Pro%E4%BD%9C%E4%B8%BA%E7%BD%91%E5%85%B3%E6%97%81%E8%B7%AF%E7%94%B1%E7%BB%99%E5%85%B6%E5%AE%83%E8%AE%BE%E5%A4%87%E7%BF%BB%E5%A2%99.md)
+  * [在Mac上使用clashx pro给switch开启游戏加速](https://github.com/vpn-wiki/fanqiang/blob/master/game/%E5%9C%A8Mac%E4%B8%8A%E4%BD%BF%E7%94%A8clashx%20pro%E7%BB%99switch%E5%BC%80%E5%90%AF%E6%B8%B8%E6%88%8F%E5%8A%A0%E9%80%9F.md)
 
 <h3>简单介绍一下SStap和Netch</h3>
 <h4>SStap是谁？</h4>
@@ -66,7 +66,7 @@ SSTap软件页面比较简洁，下面内嵌的广告页面已经无法正常显
  	<li>SS：Shadowsocks（简称SS）是一种基于Socks5代理方式的加密传输协议，也可以指实现这个协议的各种开发包。目前包使用Python、C、C++、C#、Go语言、Rust等编程语言开发，大部分主要实现（iOS平台的除外）采用Apache许可证、GPL、MIT许可证等多种自由软件许可协议开放源代码。Shadowsocks分为服务器端和客户端，在使用之前，需要先将服务器端程序部署到服务器上面，然后通过客户端连接并创建本地代理。</li>
  	<li>SSR：ShadowsocksR（简称SSR）是网名为breakwa11的用户发起的Shadowsocks分支，在Shadowsocks的基础上增加了一些资料混淆方式，称修复了部分安全问题并可以提高QoS优先级。</li>
 </ul>
-<strong>创建代理服务器，请访问：</strong><a href="https://github.com/bannedbook/fanqiang/wiki#%E8%87%AA%E5%BB%BA%E7%BF%BB%E5%A2%99%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B">自建翻墙服务器教程</a>
+<strong>创建代理服务器，请访问：</strong><a href="https://github.com/vpn-wiki/fanqiang/wiki#%E8%87%AA%E5%BB%BA%E7%BF%BB%E5%A2%99%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B">自建翻墙服务器教程</a>
 
 代理节点支持手工添加，和订阅添加。
 
@@ -114,7 +114,7 @@ SSTap代理规则下载链接：<a href="https://github.com/FQrabbit/SSTap-Rule"
 推荐购买机场套餐获取SS订阅链接。
 
 **广告插入：**  
-[![V2free翻墙-不限流量、高速稳定、性价比超强](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg)](https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)
+[![V2free翻墙-不限流量、高速稳定、性价比超强](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg)](https://github.com/vpn-wiki/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)
 
 <strong>如何添加SSTap订阅：</strong>
 
@@ -188,7 +188,7 @@ Github 项目地址：<a href="https://github.com/NetchX/Netch" target="_blank"
 推荐购买机场套餐获取SS订阅链接。
 
 **广告插入：**  
-[![V2free翻墙-不限流量、高速稳定、性价比超强](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg)](https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)
+[![V2free翻墙-不限流量、高速稳定、性价比超强](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg)](https://github.com/vpn-wiki/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA)
 
 <img src="https://uzbox.com/wp-content/uploads/2021/11/d9c5e1db2b3e94a8472916c9fa34f05c-1024x456.png"  alt="" width="731" height="326" />
 
