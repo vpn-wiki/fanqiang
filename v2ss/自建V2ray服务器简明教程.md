@@ -1,4 +1,5 @@
 <h1>自建V2ray服务器简明教程</h1>
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 **自建v2ray教程很简单，整个教程分简单几步**：
 

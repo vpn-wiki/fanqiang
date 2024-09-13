@@ -1,4 +1,5 @@
 <h1>购买Vultr VPS图文教程</h1>
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 购买VPS用来翻墙，VPS服务器需要选择国外的，首选国际知名的vultr，速度不错、稳定且性价比高，按小时计费，能够随时开通和删除服务器，新服务器即是新ip。
 

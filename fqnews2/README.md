@@ -1,4 +1,5 @@
 # 翻墙新闻（FQNews）安卓APP（新版）
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 添加任何墙外新闻的RSS/FEED，无需VPN，只需导入一个翻墙节点，FQNews APP会在后台自动翻墙下载新闻并缓存到本机，FQNews也内置了禁闻网的一些栏目。
 

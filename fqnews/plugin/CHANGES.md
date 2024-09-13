@@ -1,4 +1,5 @@
 * 1.3.4:
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
   * Optional new metadata `com.github.shadowsocks.plugin.id.aliases` for plugin ID aliases;
     (see doc for `PluginContract.METADATA_KEY_ID_ALIASES` and main documentation "Plugin ID Aliasing" for more information)
   * Please use `android:path` instead of `android:pathPrefix`, sample code in documentations have been updated to reflect this recommendation.

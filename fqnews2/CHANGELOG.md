@@ -1,4 +1,5 @@
 # 2.6.30
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 439JBYL80IGQTF25UXNR0X1BG (1):
   * [e07fe830] Updated Russian translation using Weblate
 

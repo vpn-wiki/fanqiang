@@ -1,4 +1,5 @@
 # macOS翻墙 V2rayX 教程
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 前言：V2rayX很久没有更新了，一些采用新技术的节点用不了，不推荐使用此软件了。
 

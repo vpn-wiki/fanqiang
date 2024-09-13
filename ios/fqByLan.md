@@ -1,4 +1,5 @@
 Iphone/iPad通过电脑局域网共享翻墙
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 ======================
 
 IOS系统翻墙稍微麻烦一点，下载翻墙APP之前一般需要[注册外国区的apple id](AppleID.md)，而注册外国区的apple id又要求先得翻墙出去获得外国IP地址。

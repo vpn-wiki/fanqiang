@@ -1,4 +1,5 @@
 # 翻墙新闻（FQNews）安卓APP
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 由于封锁的原因，此APP暂时失效。
 

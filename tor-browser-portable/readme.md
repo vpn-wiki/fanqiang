@@ -1,4 +1,5 @@
 # Tor Browser Portable
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 Tor Browser Portable for Windows 32/64-bit 
 

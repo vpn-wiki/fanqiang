@@ -1,4 +1,5 @@
 # 梅林路由器翻墙教程
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 ## 安装科学上网插件
 打开这个页面

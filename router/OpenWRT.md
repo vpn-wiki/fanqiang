@@ -1,4 +1,5 @@
 # OpenWRT路由器翻墙教程
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 **前情：已在openwrt中安装了shadowsocksR-plus插件，现在具体设置**
 

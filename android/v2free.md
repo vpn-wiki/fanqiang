@@ -1,4 +1,5 @@
 # V2ray.VPN 教程
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 ## 应用概述
 

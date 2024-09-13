@@ -1,4 +1,5 @@
 很多的翻墙软件基本都属于未知来源, 因此 MAC电脑设置 允许未知来源的应用 比较方便翻墙。
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 终端里输入
 

@@ -1,4 +1,5 @@
 <h1>V2ray官方一键安装脚本（新版）</h1>
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 网上流传一些v2ray一键安装脚本，有的用起来挺方便，但个人更喜欢采用官方脚本，官方脚本更加安全可靠，你懂得。
 

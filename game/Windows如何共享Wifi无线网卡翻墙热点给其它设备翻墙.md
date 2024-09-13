@@ -1,4 +1,5 @@
 <h1>Windows如何共享Wifi无线网卡翻墙热点给其它设备翻墙</h1>
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 <h2>Netch简介</h2>
 

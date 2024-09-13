@@ -1,4 +1,5 @@
 注册苹果美区 Apple ID 帐号并购买APP指南
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 ==========================
 
 第一步 准备工作，无需信用卡！

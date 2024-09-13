@@ -1,4 +1,5 @@
 # Shadowsocks+v2ray插件教程
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 本教程适用于SS+v2ray插件翻墙节点。
 

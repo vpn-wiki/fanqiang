@@ -1,4 +1,5 @@
 ---
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 name: ''
 about: ''
 title: ''

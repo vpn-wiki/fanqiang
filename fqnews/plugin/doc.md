@@ -1,4 +1,5 @@
 # Overview
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 Plugin should be bundled as an apk. `$PLUGIN_ID` in this documentation corresponds to the
  executable name for the plugin in order to be cross-platform, e.g. `obfs-local`. An apk can have

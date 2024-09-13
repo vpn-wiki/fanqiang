@@ -1,4 +1,5 @@
 <h1>在Mac上使用clashx pro给switch开启游戏加速</h1>
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 虽然我家的WiFi裸连也能达到nat type B，可以凑合用，但我发现使用了uu加速器可以达到nat type a，所以还是想折腾。
 

@@ -1,4 +1,5 @@
 # 自建V2Ray+TLS翻墙配置方法
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 ## bannedbook修订历史
 - 2020-02-26 bannedbook:为保护主域名免被封，增加子域名配置方式。

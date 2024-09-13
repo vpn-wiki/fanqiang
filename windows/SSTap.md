@@ -1,4 +1,5 @@
 # SSTap教程
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 V2rayN默认的socks5监听端口是10808，点V2rayN的"参数设置"可查看，并确保勾选"开启UDP"
 

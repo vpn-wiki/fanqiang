@@ -1,4 +1,5 @@
 ## SS/SSR免费账号（长期更新）
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 <b>推荐：</b><br>
 <a href="https://github.com/vpn-wiki/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA"><img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg" height="300" alt="V2free翻墙-不限流量、高速稳定、性价比超强"></a>

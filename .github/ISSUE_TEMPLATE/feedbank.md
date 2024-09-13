@@ -1,4 +1,5 @@
 ---
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 name: feedbank
 about: 反馈请使用此模板
 title: ''

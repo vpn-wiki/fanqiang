@@ -1,4 +1,5 @@
 # 安卓手机翻墙APP: Clash for Android教程
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 1\. 简介
 ------

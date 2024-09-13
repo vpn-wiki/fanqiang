@@ -1,4 +1,5 @@
 <h1>SStap和Netch免费游戏加速器教程</h1>
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 <h2>首先了解一下SStap和Netch都是什么？</h2>
 SStap和Netch两款游戏加速器都是Github上的开源工具，用来加速海外游戏，使用虚拟网卡技术从网卡物理层实现海外游戏的UDP连接。下面对比一下两款游戏加速器哪个更好一些。通过ss订阅链接测试两款免费游戏加速器的整体性能。
 

@@ -1,4 +1,5 @@
 # iPhone/iPad V2ray/SS 翻墙APP教程
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 **第一步、注册机场，获取免费翻墙节点**
 
