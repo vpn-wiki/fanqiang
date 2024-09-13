@@ -1,5 +1,5 @@
 <h1>苹果iPhone、ios翻墙方法</h1>
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 **第一步、注册机场，获取免费翻墙节点**
 

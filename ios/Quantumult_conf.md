@@ -1,5 +1,5 @@
 # 导入 Quantumult 完整配置
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 ## 应用概述
 

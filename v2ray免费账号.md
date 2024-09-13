@@ -1,5 +1,5 @@
 ## v2ray免费账号（长期更新）
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 点击注册链接：<a href="https://w1.v2ai.top/auth/register?code=cd79" target="_blank">w1.v2ai.top</a>，注册后在该网站用户中心获取订阅链接或拷贝全部节点 URL，根据其用户中心的快速使用帮助下的相应操作系统的帮助文档操作即可。
 

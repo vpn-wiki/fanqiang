@@ -1,5 +1,5 @@
 # Clash for Windows 翻墙教程
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 1\. 简介
 ------

@@ -1,5 +1,5 @@
 TorBrowser+V2rayN配置使用教程
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 ============
 
 V2rayN 是在 WIN 平台上的客户端软件，支持 VMess 协议。 

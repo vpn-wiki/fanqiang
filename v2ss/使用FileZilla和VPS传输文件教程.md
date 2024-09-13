@@ -1,5 +1,5 @@
 <h1>使用FileZilla和VPS传输文件教程</h1>
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 <p>这里我们介绍一下本地计算机和VPS之间传输文件的方法，准确的说，其实是使用 SFTP 的方法。VPS购买后很多朋友都想往 VPS 上面传输文件，上传更新翻墙软件的配置文件或者一些当网盘使用的。</p>
 <p>SFTP 是 Secure File Transfer Protocol 的缩写，安全文件传送协议，SFTP与 FTP 有着几乎一样的语法和功能。SFTP 也是 SSH协议 的一部分，在 SSH 协议中，已经包含了一个叫作 SFTP 的安全文件信息传输子系统。SFTP 采用加密传输，所以，使用 SFTP 是传输安全的。当然这是针对普通网友而说，对于大量传播翻墙技术的网友，不建议直接连接自己的公开VPS。</p>
 <p>简而言之，SFTP 不需要在 VPS 上额外安装任何东西，我们购买VPS后就能直接使用 SFTP 进行文件传输，非常方便，所以这里介绍基于 SFTP 协议的文件传输方法。</p>

@@ -1,5 +1,5 @@
 <b>备注，RESILIO SYNC 的 Tracker Server被墙，如果无法下载翻墙软件，请看</b>：
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
   <br><a href="https://www.bannedbook.org/bnews/fanqiang/20171119/847566.html">使用 IPFS 来下载和传播翻墙软件</a>
   <br><a href="https://www.bannedbook.org/bnews/renquan/minyun/20190115/1194998.html">聊聊 GFW 如何封杀 Resilio Sync（BTSync）？以及如何【免翻墙】继续使用？</a>
 

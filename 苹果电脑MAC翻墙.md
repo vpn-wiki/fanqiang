@@ -1,5 +1,5 @@
 <h1>苹果电脑MAC翻墙方法</h1>
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 ## 第一步：获取免费v2ray/SS翻墙节点
 

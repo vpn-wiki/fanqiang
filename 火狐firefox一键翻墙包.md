@@ -1,5 +1,5 @@
 ﻿FirefoxFQ，火狐firefox一键翻墙包
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 ------------------------
 
 10个不同的翻墙通道，包括 clash、Xray、v2go、hysteria、hysteria2、singbox、naiveproxy、psiphon、Quick。所有工具全部内置免费服务器，长期更新。支持我们请点右上角star按赞。

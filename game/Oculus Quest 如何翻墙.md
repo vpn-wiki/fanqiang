@@ -1,5 +1,5 @@
 # Oculus Quest 如何翻墙
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 Oculus Quest 翻墙，可以通过软路由，在软路由里面配置节点，如果暂时没有软路由的话，也可以使用电脑做旁路由翻墙，具体操作请参考下面的方法。
 

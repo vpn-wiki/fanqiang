@@ -1,5 +1,5 @@
 
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 <!-- saved from url=(0028)file:///D:/log/btsyncfq.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><h1 class="post-title entry-title">
 聊聊 GFW 如何封杀 Resilio Sync（BTSync）？以及如何【免翻墙】继续使用？

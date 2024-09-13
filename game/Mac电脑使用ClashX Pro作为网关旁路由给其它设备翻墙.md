@@ -1,5 +1,5 @@
 <h1>Mac电脑使用ClashX Pro作为网关旁路由给其它设备翻墙</h1>
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 <p><strong>这个教程将会指导你用 Mac 电脑使用免费的 ClashX Pro 软件作为家庭的网关，让全家设备连上 Wi-Fi 就能科学上网。</strong></p>
 

@@ -1,5 +1,5 @@
 # shadowsocks-android plugin framework
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 [Documentation](doc.md) | [Change log](CHANGES.md)
 

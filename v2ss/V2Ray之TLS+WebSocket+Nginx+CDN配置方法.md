@@ -1,5 +1,5 @@
 # V2Ray之TLS+WebSocket+Nginx+CDN配置方法
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 如果你的VPS IP 被墙了，或者你直接连接VPS的速度不理想，可以试试本文介绍的方法。
 

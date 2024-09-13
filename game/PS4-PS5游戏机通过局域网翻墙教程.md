@@ -1,5 +1,5 @@
 <h1>PS4-PS5游戏机通过局域网翻墙，加速游戏，以及下载游戏教程</h1>
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 很多小伙伴的PS4不知道怎么代理上网，以至于下载游戏或者什么东西非常慢，于是这篇教程就出来了。
 
 ## 相关阅读

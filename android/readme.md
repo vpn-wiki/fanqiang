@@ -1,5 +1,5 @@
 # Android 安卓翻墙教程
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
   * [V2free 安卓翻墙教程](https://github.com/vpn-wiki/fanqiang/blob/master/android/v2free.md)
   * [Clash for android 教程](https://github.com/vpn-wiki/fanqiang/blob/master/android/clash.md)

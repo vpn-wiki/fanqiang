@@ -1,5 +1,5 @@
 # Windows版V2ray客户端安装配置指南
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 ## V2ray官方Windows客户端安装配置
 

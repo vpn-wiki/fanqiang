@@ -1,5 +1,5 @@
 # macOS翻墙 V2rayU教程
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 ##### 步骤1 下载安装 V2rayU
 

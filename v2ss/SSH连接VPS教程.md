@@ -1,5 +1,5 @@
 <h1>SSH连接VPS教程</h1>
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 一般自己部署翻墙服务器的话，购买VPS服务器后，需要SSH连接服务器来执行几个简单的Linux命令（很简单，照着拷贝粘贴即可）。这里我们介绍一下SSH连接VPS的方法，以Vultr VPS为例，其它VPS也大同小异。[购买Vultr VPS图文教程](https://github.com/vpn-wiki/fanqiang/blob/master/v2ss/%E8%B4%AD%E4%B9%B0Vultr%20VPS%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B.md)
 

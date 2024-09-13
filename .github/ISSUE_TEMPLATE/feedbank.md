@@ -1,5 +1,5 @@
 ---
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 name: feedbank
 about: 反馈请使用此模板
 title: ''

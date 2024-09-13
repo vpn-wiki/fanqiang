@@ -1,5 +1,5 @@
 Firefox一键翻墙包 Linux版
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 ====================
 
 一个集成10个不同的翻墙通道，包括 clash.meta、clashB、Xray、v2rayb、v2go、hysteria、hysteria2、singbox、naiveproxy、psiphon，所有工具全部内置免费服务器，长期更新。由于国内网络环境复杂、地区不同，网络运营商不同，封锁情况都不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。支持我们请点右上角star按赞、Fork转发。  

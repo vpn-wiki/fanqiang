@@ -1,5 +1,5 @@
 # 中国大陆注册ChatGPT教程
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
 <img src="https://i1.wp.com/m1.aboluowang.com/uploadfile/2023/0212/20230212113811825.jpg" />
 

@@ -1,5 +1,5 @@
 # Windows V2ray/SS/SSR 翻墙教程
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
   * [Clash for Windows 翻墙教程](https://github.com/vpn-wiki/fanqiang/blob/master/windows/ClashDotNetFramework.md)
   * [V2rayN 教程](https://github.com/vpn-wiki/fanqiang/blob/master/windows/V2RayN.md)

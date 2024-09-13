@@ -1,5 +1,5 @@
 <h1>Switch、 PlayStation、Xbox等游戏机翻墙教程，利用MAC电脑做旁路由加速</h1>
-[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
+[![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 <h2>前言</h2>
 作为一个不怎么打游戏的人，做梦也不会想到我会在 2022 年入坑一台 2017 年发布的游戏机，并死心塌地了给任地狱上供了不少钱，但是随着玩的越发深入，非国行 Switch 的许多问题也暴露出来（为什么我一定要强调非国行，难道真的有人买国行吗……），总之，本文旨在针对其中最大的痛点之一，也就是网络连接的问题提出一些解决方法，希望对各位有所帮助。
 
