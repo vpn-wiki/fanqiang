@@ -1,4 +1,4 @@
-![](vpn-wiki/clever-vpn.png)
+[![](vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 # 翻墙-科学上网、翻墙工具、翻墙教程项目库
 
 *   [热点禁闻](https://github.com/jsvpn/jsproxy/tree/dev#tt)
