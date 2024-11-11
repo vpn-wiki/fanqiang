@@ -1,6 +1,8 @@
 # 翻墙-科学上网、翻墙工具、翻墙教程项目库
 [![](https://github.com/vpn-wiki/fanqiang/blob/master/vpn-wiki/clever-vpn.png)](https://www.clever-vpn.net)
 
+本库大陆直连网址: https://fq.88888004.xyz/
+
 *   [热点禁闻](https://github.com/jsvpn/jsproxy/tree/dev#tt)
 *   [翻墙新闻-FQNews-安卓APP](https://github.com/vpn-wiki/fanqiang/tree/master/fqnews2)
 *   [安卓翻墙软件](https://github.com/vpn-wiki/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
