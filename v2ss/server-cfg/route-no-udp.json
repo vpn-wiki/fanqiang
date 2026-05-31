@@ -3,7 +3,7 @@
   "rules": [
     {
       "type": "field",
-      "domains": [
+      "domain": [
         "geosite:cn",
         "geosite:category-porn",
         ".xxx",
@@ -19,6 +19,9 @@
         "domain:blocklist.de",
         "domain:bitninja.io",
         "domain:bitninja.com",
+        "domain:dlynankz.biz",
+        "domain:gjogvvpsf.biz",
+        "domain:shadowserver.org",
         "domain:ceye.io"
       ],
       "outboundTag": "block"

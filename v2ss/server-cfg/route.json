@@ -3,7 +3,7 @@
   "rules": [
     {
       "type": "field",
-      "domains": [
+      "domain": [
         "domain:avacom-lms.com",
         "domain:pushnotificationws.com",
         "domain:duckdns.org",
@@ -14,6 +14,9 @@
         "domain:blocklist.de",
         "domain:bitninja.io",
         "domain:bitninja.com",
+        "domain:dlynankz.biz",
+        "domain:gjogvvpsf.biz",
+        "domain:shadowserver.org",
         "domain:ceye.io"
       ],
       "outboundTag": "block"
