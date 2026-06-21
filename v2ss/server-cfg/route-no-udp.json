@@ -1,12 +1,26 @@
 {
   "domainMatcher": "hybrid",
+  "domainStrategy": "AsIs",
   "rules": [
     {
       "type": "field",
       "domain": [
-        "geosite:cn",
-        "geosite:category-porn",
-        ".xxx",
+        "regexp:^\\.",
+        "regexp:\\.\\.",
+        "regexp:\\.$",
+        "regexp:^\\.$",
+        "regexp:^-",
+        "regexp:-\\.",
+        "regexp:\\.-",
+        "regexp:(^|\\.)[^.]{64,}",
+        "regexp:^.{254,}",
+        "regexp:[\\s]",
+        "regexp:[/:?#@=&%+\\\\[\\]<>\"';|*,~!`]",
+        "regexp:[^a-zA-Z0-9.-]",
+        "regexp:^[^.]+$",
+        "domain:dlynankz.biz",
+        "domain:gjogvvpsf.biz",
+        "domain:shadowserver.org",
         "domain:avacom-lms.com",
         "domain:kmsactivate.com",
         "domain:icecyber.org",
@@ -19,10 +33,17 @@
         "domain:blocklist.de",
         "domain:bitninja.io",
         "domain:bitninja.com",
+        "full:wpad",
+        "full:isatap",
+        "full:localhost",
+        "dotless:wpad",
         "domain:dlynankz.biz",
         "domain:gjogvvpsf.biz",
         "domain:shadowserver.org",
-        "domain:ceye.io"
+        "domain:ceye.io",
+        "geosite:category-porn",
+        "domain:xxx",
+        "geosite:cn"
       ],
       "outboundTag": "block"
     },
